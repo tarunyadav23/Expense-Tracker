@@ -25,7 +25,7 @@ A simple and elegant **React-based Expense Tracker** that helps you record, mana
 ## 🚀 Getting Started
 1. Clone this repository  
    ```bash
-   git clone https://github.com/tarunyadav23/expense-tracker.git
+   git clone https://github.com/tarunyadav23/Expense-tracker.git
    cd expense-tracker
 Install dependencies-
 
