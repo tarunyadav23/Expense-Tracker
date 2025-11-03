@@ -38,12 +38,11 @@ npm start
 Open in your browser → http://localhost:3000
 
 📸 Preview
- 
 
-<img width="1919" height="1016" alt="Screenshot 2025-11-02 230430" src="https://github.com/user-attachments/assets/b197e282-e078-4a9f-9a55-1324c78c3ae5" />
+ <img width="1919" height="1016" alt="Screenshot 2025-11-02 230430" src="https://github.com/user-attachments/assets/bb0e88b1-0d3b-467b-8de4-51ee3213b964" />
 
 
-<img width="1919" height="897" alt="Screenshot 2025-11-02 230447" src="https://github.com/user-attachments/assets/f01bad55-3a17-4163-8593-28f744e8a827" />
+<img width="1919" height="897" alt="Screenshot 2025-11-02 230447" src="https://github.com/user-attachments/assets/35faadc1-94db-4cab-a778-8a5d398c97dd" />
 
 
 
