@@ -1,5 +1,3 @@
-// src/utils/dateUtils.js
-
 /** Format a date object or ISO string into DD/MM/YYYY format */
 export const formatDDMMYYYY = (dateInput) => {
   const d = new Date(dateInput);

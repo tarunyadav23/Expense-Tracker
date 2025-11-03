@@ -1,5 +1,3 @@
-// src/utils/categoryUtils.js
-
 import {
   FaUtensils,
   FaShoppingBag,
